@@ -1,0 +1,13 @@
+{
+  "name": "sitemap-from-routes",
+  "packageManager": "yarn@3.6.1",
+  "scripts": {
+    "sitemap": "node generate-sitemap.js"
+  },
+  "dependencies": {
+    "sitemap": "^8.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
